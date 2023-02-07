@@ -1,0 +1,79 @@
+02-06 00:27:39 replicate_layout.action_replicate_layout 305:Plugin executed on: 'win32'
+02-06 00:27:39 replicate_layout.action_replicate_layout 306:Plugin executed with python version: '3.9.10 (main, Jul 19 2022, 05:36:50) [MSC v.1932 64 bit (AMD64)]'
+02-06 00:27:39 replicate_layout.action_replicate_layout 307:KiCad build version: (6.0.7)
+02-06 00:27:39 replicate_layout.action_replicate_layout 308:Replicate layout plugin version: 77 started
+02-06 00:27:39 replicate_layout.action_replicate_layout 339:Preparing replicator with IC7 as a reference
+02-06 00:27:39 replicate_layout.replicatelayout 141:getting a list of all footprints on board
+02-06 00:27:39 replicate_layout.replicatelayout 162:total modules:404
+02-06 00:27:39 replicate_layout.action_replicate_layout 366:source anchor footprint is 'IC7'
+Located on:['DataConverters', 'ADC_buffered_2']
+With filenames:['DataConverters.kicad_sch', 'MAX8863_core.kicad_sch']
+With sheet_id:['DataConverters', 'ADC_buffered_2']
+02-06 00:27:39 replicate_layout.action_replicate_layout 371:Corresponding footprints are 
+[('IC7', ['DataConverters', 'ADC_buffered_2']), ('IC5', ['DataConverters', 'ADC_buffered_1'])]
+02-06 00:27:39 replicate_layout.action_replicate_layout 384:Showing dialog
+02-06 00:27:39 replicate_layout.action_replicate_layout 388:Pcbnew position: wx.Point(-9, -9)
+02-06 00:27:39 replicate_layout.action_replicate_layout 394:Display 0: wx.Rect(0, 0, 1920, 1080)
+02-06 00:27:39 replicate_layout.action_replicate_layout 398:Toolbar position: wx.Point(1878, 96)
+02-06 00:27:39 replicate_layout.action_replicate_layout 405:Dialog position: wx.Point(1565, 96)
+02-06 00:27:44 replicate_layout.replicatelayout 177:construcing a list of sheets suitable for replication on level:'ADC_buffered_2', file:'MAX8863_core.kicad_sch'
+02-06 00:27:44 replicate_layout.replicatelayout 184:Source sheet path up to the level:['DataConverters', 'ADC_buffered_2']
+02-06 00:27:44 replicate_layout.replicatelayout 188:Footprints on the sheets:
+['IC7', 'IC5']
+02-06 00:27:44 replicate_layout.replicatelayout 191:Footprints raw sheet ids:
+['/d85e8711-7326-4fb7-b4a9-1948dcd602ed/7932cce8-f214-41a7-a093-272badd673fb/66be1ef2-5f25-48f9-a974-e6900f142b71/fb5e6ac0-68f8-4f78-82b9-ff098380d7c5', '/d85e8711-7326-4fb7-b4a9-1948dcd602ed/7932cce8-f214-41a7-a093-272badd673fb/8765ddde-b414-4619-a827-57a32a41f90f/fb5e6ac0-68f8-4f78-82b9-ff098380d7c5']
+02-06 00:27:44 replicate_layout.replicatelayout 207:All sheets to replicate:
+[['DataConverters', 'ADC_buffered_2'], ['DataConverters', 'ADC_buffered_1']]
+02-06 00:27:44 replicate_layout.replicatelayout 212:All sheets to replicate sorted:
+[['DataConverters', 'ADC_buffered_1'], ['DataConverters', 'ADC_buffered_2']]
+02-06 00:27:44 replicate_layout.replicatelayout 218:All sheets to replicate sorted and without source sheet:
+[['DataConverters', 'ADC_buffered_1']]
+02-06 00:27:45 replicate_layout.replicatelayout 177:construcing a list of sheets suitable for replication on level:'ADC_buffered_2', file:'MAX8863_core.kicad_sch'
+02-06 00:27:45 replicate_layout.replicatelayout 184:Source sheet path up to the level:['DataConverters', 'ADC_buffered_2']
+02-06 00:27:45 replicate_layout.replicatelayout 188:Footprints on the sheets:
+['IC7', 'IC5']
+02-06 00:27:45 replicate_layout.replicatelayout 191:Footprints raw sheet ids:
+['/d85e8711-7326-4fb7-b4a9-1948dcd602ed/7932cce8-f214-41a7-a093-272badd673fb/66be1ef2-5f25-48f9-a974-e6900f142b71/fb5e6ac0-68f8-4f78-82b9-ff098380d7c5', '/d85e8711-7326-4fb7-b4a9-1948dcd602ed/7932cce8-f214-41a7-a093-272badd673fb/8765ddde-b414-4619-a827-57a32a41f90f/fb5e6ac0-68f8-4f78-82b9-ff098380d7c5']
+02-06 00:27:45 replicate_layout.replicatelayout 207:All sheets to replicate:
+[['DataConverters', 'ADC_buffered_2'], ['DataConverters', 'ADC_buffered_1']]
+02-06 00:27:45 replicate_layout.replicatelayout 212:All sheets to replicate sorted:
+[['DataConverters', 'ADC_buffered_1'], ['DataConverters', 'ADC_buffered_2']]
+02-06 00:27:45 replicate_layout.replicatelayout 218:All sheets to replicate sorted and without source sheet:
+[['DataConverters', 'ADC_buffered_1']]
+02-06 00:27:45 replicate_layout.action_replicate_layout 179:Replicating layout
+02-06 00:27:45 replicate_layout.replicatelayout 927:Starting replication of sheets: [['DataConverters', 'ADC_buffered_1']]
+on level: ['DataConverters', 'ADC_buffered_2']
+with tracks=True, zone=True, text=True, containing=False, remove=True, locked=False
+02-06 00:27:45 root 261:updating GUI message: 'Preparing for replication'
+02-06 00:27:45 root 266:updating GUI with: 0
+02-06 00:27:45 replicate_layout.replicatelayout 491:Getting the list of source footprints
+02-06 00:27:45 replicate_layout.replicatelayout 495:Getting the list of all the remaining footprints
+02-06 00:27:45 replicate_layout.replicatelayout 499:Getting nets local to source footprints
+02-06 00:27:45 replicate_layout.replicatelayout 503:Getting source bounding box
+02-06 00:27:45 root 266:updating GUI with: 37
+02-06 00:27:45 replicate_layout.replicatelayout 507:Getting source tracks
+02-06 00:27:45 replicate_layout.replicatelayout 511:Getting source zones
+02-06 00:27:45 replicate_layout.replicatelayout 515:Getting source text items
+02-06 00:27:45 replicate_layout.replicatelayout 519:Getting source text items
+02-06 00:27:45 replicate_layout.replicatelayout 958:Removing tracks and zones, before module placement
+02-06 00:27:45 root 261:updating GUI message: 'Removing zones and tracks'
+02-06 00:27:45 root 261:updating GUI message: 'Replicating footprints'
+02-06 00:27:45 root 266:updating GUI with: 0
+02-06 00:27:45 replicate_layout.replicatelayout 525:Replicating footprints
+02-06 00:27:45 replicate_layout.replicatelayout 531:Replicating footprints on sheet ['DataConverters', 'ADC_buffered_1']
+02-06 00:27:45 replicate_layout.replicatelayout 966:Removing tracks and zones, after module placement
+02-06 00:27:45 root 261:updating GUI message: 'Removing zones and tracks'
+02-06 00:27:45 root 261:updating GUI message: 'Replicating tracks'
+02-06 00:27:45 replicate_layout.replicatelayout 657:Replicating tracks
+02-06 00:27:45 replicate_layout.replicatelayout 663:Replicating tracks on sheet ['DataConverters', 'ADC_buffered_1']
+02-06 00:27:45 root 266:updating GUI with: 1
+02-06 00:27:45 root 261:updating GUI message: 'Replicating zones'
+02-06 00:27:45 replicate_layout.replicatelayout 708:Replicating zones
+02-06 00:27:45 replicate_layout.replicatelayout 715:Replicating zones on sheet ['DataConverters', 'ADC_buffered_1']
+02-06 00:27:45 root 261:updating GUI message: 'Replicating text'
+02-06 00:27:45 replicate_layout.replicatelayout 773:Replicating text
+02-06 00:27:45 replicate_layout.replicatelayout 780:Replicating text on sheet ['DataConverters', 'ADC_buffered_1']
+02-06 00:27:45 root 261:updating GUI message: 'Replicating drawings'
+02-06 00:27:45 replicate_layout.replicatelayout 804:Replicating drawings
+02-06 00:27:45 replicate_layout.replicatelayout 810:Replicating drawings on sheet ['DataConverters', 'ADC_buffered_1']
+02-06 00:27:45 replicate_layout.action_replicate_layout 201:Replication complete

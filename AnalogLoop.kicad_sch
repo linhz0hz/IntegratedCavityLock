@@ -1292,7 +1292,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x03") (at 147.32 33.02 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 45458c49-4f0a-493c-9d43-d8b29e7ff2b2)
-    (property "Reference" "J?" (id 0) (at 152.4 31.7499 90)
+    (property "Reference" "J34" (id 0) (at 152.4 31.7499 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "Conn_01x03" (id 1) (at 152.4 34.2899 90)

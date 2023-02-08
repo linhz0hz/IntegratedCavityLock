@@ -1,0 +1,6 @@
+02-07 18:32:24 STDERR 426:Traceback (most recent call last):
+02-07 18:32:24 STDERR 426:  File "C:\Users\linhz\Documents\KiCad\6.0\3rdparty\plugins\com_github_yaqwsx_kikit\__init__.py", line 38, in OnOK
+02-07 18:32:24 STDERR 426:self.Close(true)
+02-07 18:32:24 STDERR 426:NameError
+02-07 18:32:24 STDERR 426::
+02-07 18:32:24 STDERR 426:name 'true' is not defined

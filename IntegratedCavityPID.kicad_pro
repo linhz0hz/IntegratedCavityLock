@@ -125,7 +125,8 @@
         0.25,
         0.383,
         0.5,
-        1.0
+        1.0,
+        2.0
       ],
       "via_dimensions": [
         {
@@ -337,7 +338,7 @@
       "duplicate_sheet_names": "error",
       "extra_units": "error",
       "global_label_dangling": "warning",
-      "hier_label_mismatch": "error",
+      "hier_label_mismatch": "warning",
       "label_dangling": "error",
       "lib_symbol_issues": "warning",
       "multiple_net_names": "warning",
@@ -467,6 +468,10 @@
       "Power"
     ],
     [
+      "7e5f1e63-66ca-4718-b428-40041af2fefe",
+      "Isolator1"
+    ],
+    [
       "8765ddde-b414-4619-a827-57a32a41f90f",
       "ADC_buffered_1"
     ],
@@ -513,6 +518,14 @@
     [
       "a3f0c9ee-c4c5-4163-83b4-f2a2c89163a5",
       "High_Voltage"
+    ],
+    [
+      "86a68638-0bbc-4c43-9ebe-fd5047bfc5db",
+      "Digital_Utility"
+    ],
+    [
+      "b1e9c176-bd45-4ca0-8fec-6e1ccfe4f0d4",
+      "Isolator"
     ],
     [
       "7936e624-388d-4a01-8d5e-e0e72e78b00b",

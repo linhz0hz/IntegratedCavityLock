@@ -1,1030 +1,701 @@
-243464358555162
-SamacSys_Parts
-101181920002LF
-10118192-0002LF-1
-Connector
-0
-11
-11
-SamacSys_Parts
-2-5174339-5
-2-5174339-5
-Connector
-0
-70
-70
-SamacSys_Parts
-7Z26000MBGT
-7Z-26.000MBG-T-1
-Crystal or Oscillator
-0
-4
-4
-SamacSys_Parts
-28F01811SR10
-28F0181-1SR-10-2
-Ferrite Bead
+165879586455589
+Capacitor_SMD
+CP_Elec_3x5.3
+SMT capacitor, aluminium electrolytic, 3x5.3, Cornell Dubilier Electronics 
+Capacitor Electrolytic
 0
 2
 2
-SamacSys_Parts
-73415-2063
-73415-2063
-Connector
+Capacitor_SMD
+CP_Elec_3x5.4
+SMD capacitor, aluminum electrolytic, Nichicon, 3.0x5.4mm
+capacitor electrolytic
 0
-5
-5
-SamacSys_Parts
-1702473
-1702473
-Connector
+2
+2
+Capacitor_SMD
+CP_Elec_4x3
+SMD capacitor, aluminum electrolytic, Nichicon, 4.0x3mm
+capacitor electrolytic
 0
-4
-4
-SamacSys_Parts
-1771033
-1771033-1
-Connector
+2
+2
+Capacitor_SMD
+CP_Elec_4x3.9
+SMD capacitor, aluminum electrolytic, Nichicon, 4.0x3.9mm
+capacitor electrolytic
 0
-5
-5
-SamacSys_Parts
-20139781
-2013978-1
-Connector
+2
+2
+Capacitor_SMD
+CP_Elec_4x4.5
+SMD capacitor, aluminum electrolytic, Nichicon, 4.0x4.5mm
+capacitor electrolytic
 0
-23
-23
-SamacSys_Parts
-20139782
-2013978-2
-Connector
+2
+2
+Capacitor_SMD
+CP_Elec_4x5.3
+SMD capacitor, aluminum electrolytic, Vishay, 4.0x5.3mm
+capacitor electrolytic
 0
-24
-24
-SamacSys_Parts
-21187112
-2118711-2-1
-Hardware
+2
+2
+Capacitor_SMD
+CP_Elec_4x5.4
+SMD capacitor, aluminum electrolytic, Panasonic A5 / Nichicon, 4.0x5.4mm
+capacitor electrolytic
 0
-24
-24
-SamacSys_Parts
-21187222
-2118722-2-3
-Connector
+2
+2
+Capacitor_SMD
+CP_Elec_4x5.7
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 4.0x5.7mm
+capacitor electrolytic
 0
-24
-24
-SamacSys_Parts
-21187222_RF_shield
-2118722-2-3
-Connector
+2
+2
+Capacitor_SMD
+CP_Elec_4x5.8
+SMD capacitor, aluminum electrolytic, Panasonic, 4.0x5.8mm
+capacitor electrolytic
 0
-24
-1
-SamacSys_Parts
-21187242
-2118724-2-2
-Hardware
+2
+2
+Capacitor_SMD
+CP_Elec_5x3
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.0mm
+capacitor electrolytic
 0
-24
-24
-SamacSys_Parts
-21187242_RF_shield
-2118724-2-2
-Hardware
+2
+2
+Capacitor_SMD
+CP_Elec_5x3.9
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x3.9mm
+capacitor electrolytic
 0
-24
-1
-SamacSys_Parts
-21187282
-2118728-2-1
-Undefined or Miscellaneous
+2
+2
+Capacitor_SMD
+CP_Elec_5x4.4
+SMD capacitor, aluminum electrolytic, Panasonic B45, 5.0x4.4mm
+capacitor electrolytic
 0
-16
-16
-SamacSys_Parts
-21187282_RF_shield
-2118728-2-1
-Undefined or Miscellaneous
+2
+2
+Capacitor_SMD
+CP_Elec_5x4.5
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x4.5mm
+capacitor electrolytic
 0
-16
-1
-SamacSys_Parts
-74650094R
-74650094R-1
-Connector
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.3
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.3mm
+capacitor electrolytic
 0
-8
-1
-SamacSys_Parts
-128340153
-1-2834015-3-3
-Connector
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.4
+SMD capacitor, aluminum electrolytic, Nichicon, 5.0x5.4mm
+capacitor electrolytic
 0
-6
-6
-SamacSys_Parts
-251742255
-2-5174225-5-1
-Connector
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.7
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 5.0x5.7mm
+capacitor electrolytic
 0
-70
-70
-SamacSys_Parts
-323639610
-3-2363961-0-1
-Connector
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.8
+SMD capacitor, aluminum electrolytic, Panasonic, 5.0x5.8mm
+capacitor electrolytic
 0
-34
-34
-SamacSys_Parts
-ACM1211
-ACM1211
-Filter
+2
+2
+Capacitor_SMD
+CP_Elec_5x5.9
+SMD capacitor, aluminum electrolytic, Panasonic B6, 5.0x5.9mm
+capacitor electrolytic
 0
-4
-4
-SamacSys_Parts
-ACM70603012PLTL01
-ACM7060
-Filter
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x3
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x3.0mm
+capacitor electrolytic
 0
-4
-4
-SamacSys_Parts
-ADEX10H
-ADEX-10H+-2
-Filter
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x3.9
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x3.9mm
+capacitor electrolytic
 0
-6
-6
-SamacSys_Parts
-AFT09MS015NT1
-AFT09MS015NT1-2
-Integrated Circuit
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x4.5
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x4.5mm
+capacitor electrolytic
 0
-3
-3
-SamacSys_Parts
-CHOKE_TM100605N
-
-
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x4.9
+SMD capacitor, aluminum electrolytic, Panasonic C5, 6.3x4.9mm
+capacitor electrolytic
 0
-4
-4
-SamacSys_Parts
-CM0403CG
-CM0403CG
-Filter
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.2
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 6.3x5.2mm
+capacitor electrolytic
 0
-4
-4
-SamacSys_Parts
-CONN-XY119A-5.0-2P
-
-
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.3
+SMD capacitor, aluminum electrolytic, Cornell Dubilier, 6.3x5.3mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.4
+SMD capacitor, aluminum electrolytic, Panasonic C55, 6.3x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.4_Nichicon
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.7
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 6.3x5.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.8
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x5.8mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x5.9
+SMD capacitor, aluminum electrolytic, Panasonic C6, 6.3x5.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x7.7
+SMD capacitor, aluminum electrolytic, Nichicon, 6.3x7.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_6.3x9.9
+SMD capacitor, aluminum electrolytic, Panasonic C10, 6.3x9.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x5.4
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x5.4mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x6.2
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x6.2mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x6.5
+SMD capacitor, aluminum electrolytic, Rubycon, 8.0x6.5mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x6.7
+SMD capacitor, aluminum electrolytic, United Chemi-Con, 8.0x6.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x6.9
+SMD capacitor, aluminum electrolytic, Panasonic E7, 8.0x6.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x10
+SMD capacitor, aluminum electrolytic, Nichicon, 8.0x10mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x10.5
+SMD capacitor, aluminum electrolytic, Vishay 0810, 8.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_8x11.9
+SMD capacitor, aluminum electrolytic, Panasonic E12, 8.0x11.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x7.7
+SMD capacitor, aluminum electrolytic, Nichicon, 10.0x7.7mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x7.9
+SMD capacitor, aluminum electrolytic, Panasonic F8, 10.0x7.9mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x10
+SMD capacitor, aluminum electrolytic, Nichicon, 10.0x10.0mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x10.5
+SMD capacitor, aluminum electrolytic, Vishay 1010, 10.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x12.5
+SMD capacitor, aluminum electrolytic, Vishay 1012, 10.0x12.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x12.6
+SMD capacitor, aluminum electrolytic, Panasonic F12, 10.0x12.6mm
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_10x14.3
+SMD capacitor, aluminum electrolytic, Vishay 1014, 10.0x14.3mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_16x17.5
+SMD capacitor, aluminum electrolytic, Vishay 1616, 16.0x17.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_16x22
+SMD capacitor, aluminum electrolytic, Vishay 1621, 16.0x22.0mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_18x17.5
+SMD capacitor, aluminum electrolytic, Vishay 1816, 18.0x17.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+CP_Elec_18x22
+SMD capacitor, aluminum electrolytic, Vishay 1821, 18.0x22.0mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Capacitor_SMD
+C_0201_0603Metric
+Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+capacitor
 0
 4
 2
-SamacSys_Parts
-CVCO45CL01000140
-CVCO45CL-0100-0140-1
-Crystal or Oscillator
+Capacitor_SMD
+C_0201_0603Metric_Pad0.64x0.40mm_HandSolder
+Capacitor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
-6
-6
-SamacSys_Parts
-CVCO55CC17501810
-CVCO55CC-1750-1810-2
-Integrated Circuit
+4
+2
+Capacitor_SMD
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
 0
-16
-16
-SamacSys_Parts
-CVCO55CL04500470
-CVCO55CL-0450-0470-3
-Crystal or Oscillator
+2
+2
+Capacitor_SMD
+C_0402_1005Metric_Pad0.74x0.62mm_HandSolder
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
-16
-16
-SamacSys_Parts
-C_1206_Kelvin
+2
+2
+Capacitor_SMD
+C_0504_1310Metric
+Capacitor SMD 0504 (1310 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_0504_1310Metric_Pad0.83x1.28mm_HandSolder
+Capacitor SMD 0504 (1310 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_0805_2012Metric
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_01005_0402Metric
+Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+capacitor
+0
+4
+2
+Capacitor_SMD
+C_01005_0402Metric_Pad0.57x0.30mm_HandSolder
+Capacitor SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+4
+2
+Capacitor_SMD
+C_1206_3216Metric
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
 Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor handsolder
 0
-4
-4
-SamacSys_Parts
-C_1210_Kelvin
+2
+2
+Capacitor_SMD
+C_1210_3225Metric
+Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+Capacitor_SMD
+C_1210_3225Metric_Pad1.33x2.70mm_HandSolder
 Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor handsolder
 0
-4
-4
-SamacSys_Parts
-DFN_5x6_GaN_MOS
-DD Package; 8-Lead Plastic DFN (6mm x 5mm) (see http://www.everspin.com/file/236/download)
-dfn 
-0
-25
-9
-SamacSys_Parts
-DIP701W173P500L1288H660Q6N
-8197
-Connector
-0
-6
-6
-SamacSys_Parts
-D_SOD-323_HugePad
-SOD-323
-SOD-323
+2
+2
+Capacitor_SMD
+C_1812_4532Metric
+Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
 0
 2
 2
-SamacSys_Parts
-ESP32C3MINI1N4
-ESP32-C3-MINI-1-N4
-Integrated Circuit
-0
-61
-61
-SamacSys_Parts
-ESP32S3WROOM1N4
-18 × 25.5 × 3.1mm
-Integrated Circuit
-0
-49
-49
-SamacSys_Parts
-ESP32WROOM32EN4
-ESP32-WROOM-32E-N4-1
-Integrated Circuit
-0
-47
-47
-SamacSys_Parts
-EXC24CN601X
-EXC24CN601X-1
-Filter
-0
-4
-4
-SamacSys_Parts
-E_SERIES
-E_Series
-Transformer
-0
-5
-5
-SamacSys_Parts
-GS0650041LTR
-GS-065-004-1-L-TR
-Transistor E-mode GaN (10-Pin)
-0
-10
-10
-SamacSys_Parts
-GSB443133HR
-GSB443133HR
-Connector
-0
-16
-16
-SamacSys_Parts
-I5382P316384MHZ
-I538-2P3-16.384MHZ-1
-Crystal or Oscillator
-0
-4
-4
-SamacSys_Parts
-KTW__R-PSFM-G7_
-KTW (R-PSFM-G7)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-LFCN1000
-LFCN-1000+-2
-Filter
-0
-4
-4
-SamacSys_Parts
-LTC6655CHLS825PBF
-LTC6655CHLS8-2.5#PBF-1
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-L_CommonModeChoke_PAC6006
-WE-SL5 SMT Common Mode Line Filter, https://www.we-online.de/katalog/en/WE-SL5/, https://www.we-online.de/katalog/datasheet/744272471.pdf
-SMT Common Mode Line Filter
-0
-4
-4
-SamacSys_Parts
-MABA007532CF18A0
-SM-138
-Transformer
-0
-5
-5
-SamacSys_Parts
-MABA011094
-MABA-011094-2
-Transformer
-0
-5
-5
-SamacSys_Parts
-MICRO-USB-SMD_U254-051T-4BH83-S1S
-
-
-0
-9
-6
-SamacSys_Parts
-MMC5983MA
-MMC5983MA-7
-Integrated Circuit
-0
-16
-16
-SamacSys_Parts
-MMCX_Molex_SMT_734152061_Vertical
-https://www.molex.com/pdm_docs/sd/734152061_sd.pdf
-SMA SMD Female Jack Vertical
-0
-5
-2
-SamacSys_Parts
-MVA2000
-MVA-2000+
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-MountingHole_3.7mm_Pad_Via_Norelief
-Mounting Hole 3.7mm
-mounting hole 3.7mm
-0
-9
-1
-SamacSys_Parts
-MountingHole_3mm_Pad_Via_Norelief
-Mounting Hole 3mm
-mounting hole 3mm
-0
-9
-1
-SamacSys_Parts
-NE555DR
-D (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-OPA549SG3
-OPA549SG3-4
-Integrated Circuit
-0
-11
-11
-SamacSys_Parts
-PAT1220C6DBT5
-PAT1220-C-6DB-T5-2
-Attenuator or Isolator
-0
-3
-3
-SamacSys_Parts
-PDME2S24D12S
-PDME2-S24-D12-S-2
-Power Supply
-0
-5
-5
-SamacSys_Parts
-PDSE1S12S24S
-PDSE1-S12-S24-S-1
-Power Supply
-0
-4
-4
-SamacSys_Parts
-PHA202
-PHA-202+-1
-Integrated Circuit
-0
-9
-9
-SamacSys_Parts
-PSA45043
-PSA4-5043+-2
-Integrated Circuit
-0
-4
-4
-SamacSys_Parts
-PVG5A202C03R00
-PVG5A202C03R00-2
-Variable Resistor
-0
-3
-3
-SamacSys_Parts
-QFN32_5X5
-
-
-0
-33
-33
-SamacSys_Parts
-QFN50P300X300X80-13N-D
-12 lead 3*3_1
-Attenuator or Isolator
-0
-13
-13
-SamacSys_Parts
-QFN50P400X400X80-16N
-LMH6518SQE/NOPB
-Integrated Circuit
-0
-16
-16
-SamacSys_Parts
-QFN50P400X400X80-25N-D
-A750KS227M1EEAE015
-Integrated Circuit
-0
-25
-25
-SamacSys_Parts
-QFN50P400X400X90-21N
-QFN-20
-Integrated Circuit
-0
-21
-21
-SamacSys_Parts
-QFN50P400X400X90-21N-D
-QFN-20
-Integrated Circuit
-0
-21
-21
-SamacSys_Parts
-QFN51P300X300X89-13N
-QFN-13
-Integrated Circuit
-0
-13
-13
-SamacSys_Parts
-QFN65P400X400X90-17N
-QFN-16-1
-Integrated Circuit
-0
-17
-17
-SamacSys_Parts
-QFN65P400X400X95-17N-D
-QFN16X4X4
-Integrated Circuit
-0
-17
-17
-SamacSys_Parts
-QFN65P500X500X100-21N-D
-rgw (s-pvqfn-n20)
-Integrated Circuit
-0
-21
-21
-SamacSys_Parts
-QFN66P300X300X89-9N
-DQ849+
-Integrated Circuit
-0
-9
-9
-SamacSys_Parts
-QFP50P1400X1400X160-80N
-80 LD FQFP 12X12
-Integrated Circuit
-0
-80
-80
-SamacSys_Parts
-RAHHD19TR
-RAHHD19TR
-Connector
-0
-23
-23
-SamacSys_Parts
-RF_MOS_PLD15W
-Footprint for a series of NXP RF MOS transistors
-Integrated Circuit
-0
-3
-3
-SamacSys_Parts
-RF_MOS_TO220_SMD
-TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
-TO-220-3 Horizontal RM 2.54mm
-0
-3
-3
-SamacSys_Parts
-RF_MOS_TO270_2
-Footprint for a series of NXP RF MOS transistors
-Integrated Circuit
-0
-3
-3
-SamacSys_Parts
-RG316_solderpad
-Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/
-Hirose U.FL Coaxial
+Capacitor_SMD
+C_1812_4532Metric_Pad1.57x3.40mm_HandSolder
+Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
 2
 2
-SamacSys_Parts
-RJCSE538001
-RJCSE-5380-01-2
-Connector
+Capacitor_SMD
+C_1825_4564Metric
+Capacitor SMD 1825 (4564 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
 0
-14
-14
-SamacSys_Parts
-RLP30
-CASE STYLE: GP1212
-Filter
-0
-8
-8
-SamacSys_Parts
-RN2144021M5
-RN214-4-02-1M5-2
-Filter
-0
-4
-4
-SamacSys_Parts
-SAV331
-SAV-331+-2
-Integrated Circuit
-0
-4
-4
-SamacSys_Parts
-SJ13513SMTTR
-SJ1-3513-SMT-TR
-Connector
-0
-3
-3
-SamacSys_Parts
-SJ13514SMTTR
-SJ1-3514-SMT-TR-1
-Connector
-0
-5
-5
-SamacSys_Parts
-SKYA21003
-
-
-0
-13
-13
-SamacSys_Parts
-SMA_U.FL_comb
-https://www.amphenolrf.com/downloads/dl/file/id/1141/product/2978/132134_16_customer_drawing.pdf
-SMA THT Female Jack Vertical ExtendedLegs
-0
-8
 2
-SamacSys_Parts
-SOIC127P597X196-8N
-MSWA-2-20+
-Integrated Circuit
+2
+Capacitor_SMD
+C_1825_4564Metric_Pad1.57x6.80mm_HandSolder
+Capacitor SMD 1825 (4564 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
-8
-8
-SamacSys_Parts
-SOIC127P600X175-8N
-D
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_2220_5650Metric
+Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor
 0
-8
-8
-SamacSys_Parts
-SOIC127P600X175-14N
-R-14 (SOIC)
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_2220_5650Metric_Pad1.97x5.40mm_HandSolder
+Capacitor SMD 2220 (5650 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
-14
-14
-SamacSys_Parts
-SOIC127P600X175-16N
-R-16 (SOIC)
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_2225_5664Metric
+Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor
 0
-16
-16
-SamacSys_Parts
-SOIC127P700X230-6N
-11-4L1S
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_2225_5664Metric_Pad1.80x6.60mm_HandSolder
+Capacitor SMD 2225 (5664 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
-6
-6
-SamacSys_Parts
-SOIC127P780X200-14N
-NS (R-PDSO-G14)
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_3640_9110Metric
+Capacitor SMD 3640 (9110 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor
 0
-14
-14
-SamacSys_Parts
-SOIC127P970X425-6N
-TLP700H
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_3640_9110Metric_Pad2.10x10.45mm_HandSolder
+Capacitor SMD 3640 (9110 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
+capacitor handsolder
 0
-6
-6
-SamacSys_Parts
-SOIC127P1000X220-16N
-11-10M1
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Elec_3x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 3.0x5.4mm
+capacitor electrolyic nonpolar
 0
-16
-16
-SamacSys_Parts
-SOIC127P1000X230-6N
-TLP5754.
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Elec_4x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 4.0x5.4mm
+capacitor electrolyic nonpolar
 0
-6
-6
-SamacSys_Parts
-SOIC127P1030X265-16N
-DW-16
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Elec_4x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 4.0x5.8mm
+capacitor electrolyic nonpolar
 0
-16
-16
-SamacSys_Parts
-SOIC127P1032X265-16N
-W16M+8_1
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Elec_5x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 5.0x5.4mm
+capacitor electrolyic nonpolar
 0
-16
-16
-SamacSys_Parts
-SOIC127P1042X264-20N
-HMC1002
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Elec_5x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 5.0x5.8mm
+capacitor electrolyic nonpolar
 0
-20
-20
-SamacSys_Parts
-SON40P200X130X60-7N-D
-PL133-27GC-R
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Elec_6.3x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.4mm
+capacitor electrolyic nonpolar
 0
-7
-7
-SamacSys_Parts
-SON50P200X200X90-9N-D
-DFN_1
-Switch
+2
+2
+Capacitor_SMD
+C_Elec_6.3x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.8mm
+capacitor electrolyic nonpolar
 0
-9
-9
-SamacSys_Parts
-SON50P250X250X80-10N
-DRX0010A
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Elec_6.3x7.7
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x7.7mm
+capacitor electrolyic nonpolar
 0
-10
-10
-SamacSys_Parts
-SON50P300X300X80-9N
-WSON - 0.8 mm
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Elec_8x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x5.4mm
+capacitor electrolyic nonpolar
 0
-9
-9
-SamacSys_Parts
-SON50P300X300X80-9N-D
-DD Package 8-Lead Plastic DFN (3mm × 3mm)
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Elec_8x6.2
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x6.2mm
+capacitor electrolyic nonpolar
 0
-9
-9
-SamacSys_Parts
-SON50P300X300X80-11N-D
-wson-10
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Elec_8x10.2
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x10.2mm
+capacitor electrolyic nonpolar
 0
-11
-11
-SamacSys_Parts
-SON50P300X300X100-11N
-SON50P300X300X100-11N
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Elec_10x10.2
+SMD capacitor, aluminum electrolytic nonpolar, 10.0x10.2mm
+capacitor electrolyic nonpolar
 0
-11
-11
-SamacSys_Parts
-SON66P200X200X105-7N
-MC1630-1
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Trimmer_Murata_TZB4-A
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZB4 TZB4-A
 0
-7
-7
-SamacSys_Parts
-SON80P400X400X80-11N
-LM5106SD/NOPB
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Trimmer_Murata_TZB4-B
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZB4 TZB4-A
 0
-11
-11
-SamacSys_Parts
-SOP50P490X110-10N
-DGS0010A
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Trimmer_Murata_TZC3
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZC3
 0
-10
-10
-SamacSys_Parts
-SOP65P488X107-8N
-PE4250MLI-Z
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Trimmer_Murata_TZR1
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZR1
 0
-8
-8
-SamacSys_Parts
-SOP65P490X110-8N
-8-Lead Mini Small Outline Package [MSOP]
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Trimmer_Murata_TZW4
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZW4
 0
-8
-8
-SamacSys_Parts
-SOP65P490X110-9N
-LT3085EMS8E#TRPBF
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Trimmer_Murata_TZY2
+trimmer capacitor SMD horizontal, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/trimmer/t13e.ashx?la=en-gb
+ Murata TZY2
 0
-9
-9
-SamacSys_Parts
-SOP65P490X110-13N
-LT3090EMSE#PBF
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Trimmer_Sprague-Goodman_SGC3
+trimmer capacitor SMD horizontal, http://media.wix.com/ugd/d86717_38d9821e12823a7aa9cef38c6c2a73cc.pdf
+ Sprague Goodman SGC3
 0
-13
-13
-SamacSys_Parts
-SOP65P640X110-24N
-24 TSSOP
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Trimmer_Voltronics_JN
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JN
 0
-24
-24
-SamacSys_Parts
-SOP65P640X120-16N
-TSSOP-16
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Trimmer_Voltronics_JQ
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JQ
 0
-16
-16
-SamacSys_Parts
-SOP65P778X199-20N
-MAX22344CAAP+
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Trimmer_Voltronics_JR
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JR
 0
-20
-20
-SamacSys_Parts
-SOP254P965X419-8N
-DIP8/GW
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Trimmer_Voltronics_JV
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JV
 0
-8
-8
-SamacSys_Parts
-SOT95P237X112-3N
-3 SOT23
-Integrated Circuit
+2
+2
+Capacitor_SMD
+C_Trimmer_Voltronics_JZ
+trimmer capacitor SMD horizontal, http://www.knowlescapacitors.com/File%20Library/Voltronics/English/GlobalNavigation/Products/Trimmer%20Capacitors/CerChipTrimCap.pdf
+ Voltronics JR
 0
-3
-3
-SamacSys_Parts
-SOT95P275X110-5N
-TSOP
-Integrated Circuit
-0
-5
-5
-SamacSys_Parts
-SOT95P280X100-5N
-TSOT 5 pin
-Integrated Circuit
-0
-5
-5
-SamacSys_Parts
-SOT95P280X100-6N
-TSOT-23-ren3
-Integrated Circuit
-0
-6
-6
-SamacSys_Parts
-SOT95P280X145-5N
-sot-23-5+
-Integrated Circuit
-0
-5
-5
-SamacSys_Parts
-SOT95P280X145-6N
-DBV0006A
-Integrated Circuit
-0
-6
-6
-SamacSys_Parts
-SOT96P240X105-3N
-SOT-23 height 1.05
-Integrated Circuit
-0
-3
-3
-SamacSys_Parts
-SRF0905501Y
-SRF0905-501Y-1
-Filter
-0
-4
-4
-SamacSys_Parts
-ST4ETB102
-ST-4ETB102-2
-Switch
-0
-3
-3
-SamacSys_Parts
-SYAS1
-SYAS-1+-2
-Attenuator or Isolator
-0
-6
-6
-SamacSys_Parts
-SYM18H
-SYM-18H+-1
-Integrated Circuit
-0
-6
-6
-SamacSys_Parts
-SYM25DHW
-SYM-25DHW+-1
-Integrated Circuit
-0
-6
-6
-SamacSys_Parts
-SYM30DHW
-SYM-30DHW+-1
-Integrated Circuit
-0
-6
-6
-SamacSys_Parts
-SiT5156AIFK33E025000000X
-SiT5156AI-FK-33E0-25.000000X-1
-Integrated Circuit
-0
-10
-10
-SamacSys_Parts
-TBL009V25403GY2GY
-TBL009V-254-03GY-2GY-3
-Connector
-0
-6
-6
-SamacSys_Parts
-TCXO Crystal 6pin SMD2520-6P 2TG2600001
-
-
-0
-6
-4
-SamacSys_Parts
-TF-SMD_XKTF-N02-N
-
-
-0
-13
-10
-SamacSys_Parts
-TG2016SMN384000MECGNNM3
-TG2016SMN 38.4000M-ECGNNM3-1
-Crystal or Oscillator
-0
-4
-4
-SamacSys_Parts
-TG2520SMN25000MMCGNNM3
-2.5x2.0x0.8mm
-Crystal or Oscillator
-0
-4
-4
-SamacSys_Parts
-TH_T46004
-
-
-0
-6
-1
-SamacSys_Parts
-TLP2366TPLE
-11-4L1S_2021_1
-Integrated Circuit
-0
-5
-5
-SamacSys_Parts
-TO5_TO18_dual
-TO-5-3_Window, Window
-TO-5-3_Window Window
-0
-4
-3
-SamacSys_Parts
-TO100P465X2910X1977-25P
-Flexiwatt25 (vertical)
-Integrated Circuit
-0
-25
-25
-SamacSys_Parts
-TO127P1394X457-8N
-LTC DWG # 05-08-1462 Rev F
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-TestPoint_Pad_D1.5mm_unlabelled
-SMD pad as test Point, diameter 1.5mm
-test point SMD pad
-0
-1
-1
-SamacSys_Parts
-USB1046GF0190LBA
-USB1046-GF-0190-L-B-A-2
-Connector
-0
-6
-5
-SamacSys_Parts
-USB1061GFLA
-USB1061-GF-L-A-2
-Connector
-0
-6
-6
-SamacSys_Parts
-USB315030130A
-USB3150-30-130-A-1
-Connector
-0
-11
-11
-SamacSys_Parts
-Y16072R00000T9W
-VCS1625Z
-Resistor
-0
-4
-4
+2
+2

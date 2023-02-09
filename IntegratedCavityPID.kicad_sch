@@ -1519,7 +1519,7 @@
       (reference "J8") (unit 1) (value "Conn_01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/86a68638-0bbc-4c43-9ebe-fd5047bfc5db/b1e9c176-bd45-4ca0-8fec-6e1ccfe4f0d4/529707a2-f758-4114-b45f-ecedf59aefd6"
-      (reference "J9") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Amphenol_132134-10_Vertical")
+      (reference "J9") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Amphenol_132134_Vertical")
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/260f5ace-7406-4a9a-a868-ed825252a4f1/f8194e5e-8b50-4574-9939-1ea0ed856bcf"
       (reference "J10") (unit 1) (value "B-2100N06P-B111") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical_SMD")
@@ -1600,7 +1600,7 @@
       (reference "J35") (unit 1) (value "RFShield_OnePiece") (footprint "SamacSys_Parts:21187222_RF_shield")
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/86a68638-0bbc-4c43-9ebe-fd5047bfc5db/7e5f1e63-66ca-4718-b428-40041af2fefe/529707a2-f758-4114-b45f-ecedf59aefd6"
-      (reference "J36") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Amphenol_132134-10_Vertical")
+      (reference "J36") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Amphenol_132134_Vertical")
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/260f5ace-7406-4a9a-a868-ed825252a4f1/7e314aea-a16d-49e4-a5ac-0f436429662f"
       (reference "J37") (unit 1) (value "Conn_01x16") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical")
@@ -2308,7 +2308,7 @@
       (reference "R177") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/7d4be2da-0b03-40eb-803a-fd7aef9a7fde/0e7a3292-976f-40b4-ae92-aef991150940"
-      (reference "R178") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
+      (reference "R178") (unit 1) (value "1k5") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/86a68638-0bbc-4c43-9ebe-fd5047bfc5db/7e5f1e63-66ca-4718-b428-40041af2fefe/d57fe56b-7091-44b8-98af-2ace5ea64cf1"
       (reference "R179") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
@@ -2318,6 +2318,9 @@
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/beeba9a4-07d4-47e4-a76a-60f49e144676/224fd189-3be3-44d7-8b7c-9028954f6797/3d163917-1306-4523-b45d-c0915562379b"
       (reference "R181") (unit 1) (value "3k3") (footprint "Resistor_SMD:R_1206_3216Metric")
+    )
+    (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/7d4be2da-0b03-40eb-803a-fd7aef9a7fde/f0df5d5a-b379-4e53-a664-432199069318"
+      (reference "R182") (unit 1) (value "1k5") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/7932cce8-f214-41a7-a093-272badd673fb/d51f37ee-c4d5-4b92-b565-55288a27bb73/cd8ede26-807f-46a0-93fb-7d279540e112"
       (reference "RV1") (unit 1) (value "dnp") (footprint "Potentiometer_SMD:Potentiometer_Bourns_3224W_Vertical")

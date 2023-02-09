@@ -1,6 +1,6 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid 8380f1aa-a5ed-4c32-863d-298bd37e5c6e)
+  (uuid cc11b9a2-6488-4138-990f-d8801bb6e68c)
 
   (paper "A4")
 
@@ -607,7 +607,7 @@
     (uuid 529707a2-f758-4114-b45f-ecedf59aefd6)
     (property "Reference" "J9" (id 0) (at 85.6488 73.9648 0))
     (property "Value" "Conn_Coaxial" (id 1) (at 85.6488 76.2762 0))
-    (property "Footprint" "Connector_Coaxial:SMA_Amphenol_132134-10_Vertical" (id 2) (at 83.82 80.01 0)
+    (property "Footprint" "Connector_Coaxial:SMA_Amphenol_132134_Vertical" (id 2) (at 83.82 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 83.82 80.01 0)

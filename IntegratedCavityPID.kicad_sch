@@ -1449,6 +1449,12 @@
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/f5ff7b8e-d9f8-4884-be3e-e7f7521542b9"
       (reference "H8") (unit 1) (value "MountingHole_Pad") (footprint "SamacSys_Parts:MountingHole_3.7mm_Pad_Via_Norelief")
     )
+    (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/18895e10-5e85-4ad3-87e3-cc8a9520aaba"
+      (reference "H9") (unit 1) (value "MountingHole_Pad") (footprint "SamacSys_Parts:MountingHole_3mm_Pad_Via_Norelief")
+    )
+    (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/81443f78-39ac-46f2-a20b-a83051e2daf4"
+      (reference "H10") (unit 1) (value "MountingHole_Pad") (footprint "SamacSys_Parts:MountingHole_3mm_Pad_Via_Norelief")
+    )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/7d4be2da-0b03-40eb-803a-fd7aef9a7fde/fdd87e6b-d8e1-4a49-a33e-b0affaf46f19"
       (reference "IC1") (unit 1) (value "AD835ARZ") (footprint "SamacSys_Parts:SOIC127P600X175-8N")
     )
@@ -1774,10 +1780,10 @@
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/33e32935-ce55-4e62-9abc-8453ebf88280/952f0aa8-2a50-45bf-938f-5dd74e1fd91c/0d7ae902-5fdf-4ce8-95a1-04feb3b7045f"
-      (reference "R2") (unit 1) (value "dnp") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R2") (unit 1) (value "dnp") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/33e32935-ce55-4e62-9abc-8453ebf88280/952f0aa8-2a50-45bf-938f-5dd74e1fd91c/0a62be9c-5b42-4367-8f7d-c892ff2e343f"
-      (reference "R3") (unit 1) (value "0") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R3") (unit 1) (value "0") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/260f5ace-7406-4a9a-a868-ed825252a4f1/bafc5d35-52e5-444d-bf65-c93c31947b4e"
       (reference "R4") (unit 1) (value "27") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
@@ -2296,7 +2302,7 @@
       (reference "R175") (unit 1) (value "4k7") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/33e32935-ce55-4e62-9abc-8453ebf88280/952f0aa8-2a50-45bf-938f-5dd74e1fd91c/81a89500-157b-4ea5-8597-e50bed99c107"
-      (reference "R176") (unit 1) (value "dnp") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R176") (unit 1) (value "dnp") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/d85e8711-7326-4fb7-b4a9-1948dcd602ed/86a68638-0bbc-4c43-9ebe-fd5047bfc5db/b1e9c176-bd45-4ca0-8fec-6e1ccfe4f0d4/d57fe56b-7091-44b8-98af-2ace5ea64cf1"
       (reference "R177") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")

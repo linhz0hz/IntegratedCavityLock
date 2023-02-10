@@ -768,7 +768,6 @@
     )
   )
 
-
   (junction (at 232.41 43.18) (diameter 0) (color 0 0 0 0)
     (uuid 0e46b239-adf8-49c5-9c22-1128efb212eb)
   )
@@ -1613,7 +1612,7 @@
     (property "Reference" "R137" (id 0) (at 119.38 147.3199 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "0" (id 1) (at 119.38 149.8599 0)
+    (property "Value" "0R" (id 1) (at 119.38 149.8599 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 118.618 148.59 90)

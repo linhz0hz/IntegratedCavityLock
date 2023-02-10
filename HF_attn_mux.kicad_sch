@@ -915,7 +915,6 @@
     )
   )
 
-
   (junction (at 64.77 128.27) (diameter 0) (color 0 0 0 0)
     (uuid 01263ca7-99c4-4642-9c91-c883ff0f333d)
   )
@@ -2210,7 +2209,7 @@
     (property "Reference" "J12" (id 0) (at 22.86 84.7724 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "SMA" (id 1) (at 22.86 87.3124 90)
+    (property "Value" "DNP SMA(SMT)" (id 1) (at 22.86 87.3124 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_Coaxial:SMA_Amphenol_132134-10_Vertical" (id 2) (at 26.67 86.36 0)
@@ -2695,7 +2694,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f88902a3-e75e-43a9-a9c8-a1d5358aa8cc)
     (property "Reference" "R140" (id 0) (at 97.79 67.31 90))
-    (property "Value" "0" (id 1) (at 97.79 69.85 90))
+    (property "Value" "0R" (id 1) (at 97.79 69.85 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 97.79 75.438 90)
       (effects (font (size 1.27 1.27)) hide)
     )

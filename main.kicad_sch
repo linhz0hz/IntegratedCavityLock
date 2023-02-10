@@ -232,11 +232,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 89591ac5-7c9c-4973-8782-5332a61c7f9b)
   )
-  (text "1k8 resistor R100 R98 and 2k2 resistor 1206\nFuse? Sure\nADG1419? Sure\nMMBT3906? Should have basic part\nPTFR0805B3K30  / 390R\nTLP2366 DNP\nCoax DNP\n74HC4051?\nTHS4551IRGTR\nC106\ntant10uF\nLT3080EDD\n\n"
-    (at 209.55 156.21 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid b7fdabb3-1227-4848-a6c9-e5c052a185f2)
-  )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 241.3 105.41 90) (unit 1)
     (in_bom yes) (on_board yes)

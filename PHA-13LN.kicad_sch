@@ -496,7 +496,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 06940f34-57a4-4268-9853-fb1a6b79cd07)
     (property "Reference" "R51" (id 0) (at 166.37 74.93 90))
-    (property "Value" "0" (id 1) (at 166.37 77.47 90))
+    (property "Value" "0R" (id 1) (at 166.37 77.47 90))
     (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 166.37 83.058 90)
       (effects (font (size 1.27 1.27)) hide)
     )
